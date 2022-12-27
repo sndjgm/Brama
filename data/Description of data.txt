@@ -1,0 +1,6 @@
+Instrument Type: Agilent2
+LIST File: A_LIST.xls
+Dwell Time:Pb206=0.03;Pb207=0.063;U238=0.1;Pb208=0.008;Th232=0.008.
+No. of Detector=5
+
+
