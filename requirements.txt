@@ -1,0 +1,12 @@
+PyQt5
+numpy
+pandas
+xlwt
+xlrd
+matplotlib
+mpl_toolkits
+scipy
+xlutils
+statistics
+xlrd
+logging
