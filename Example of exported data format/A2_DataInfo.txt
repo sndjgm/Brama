@@ -1,0 +1,141 @@
+**************************************************
+#Start  time:2022-12-27 10:25:06
+--------------------------------------------------
+#Instrument Parameters
+Ms file: D:\Brama\Brama 2.0\data\Calcite Line\A2.D\A2.csv
+Background Start Row:1
+Background End Row:6
+Single Start Row:20
+Single End Row:1251
+#Dwell Times(s)
+206Pb:0.03
+207Pb:0.063
+238U:0.1
+Others:0.016 
+ComPbFilter: False
+Interpol: True
+#Number of Data:1141
+#Raw Data:1230
+#Compressed Data:7.2%
+Baseline  Error:2.0%
+Min. U  (cps):25
+Min. U Pb (counts):15
+Std Bias 207/206:1.0119
+Std Bias 206/238:0.6800
+Alblatio Corr. factors:1.0000
+Lower Intercept Age:235.58 Ma;
+Upper Intercept Age:5263.26 Ma.
+--------------------------------------------------
+--------------------------------------------------
+#Regression Parameters
+Age start:234
+Age end:238
+Num. Ages:51 
+Pbc76 start:0.7
+Pbc76 end:1.8
+Num. Pbc76:51 
+--------------------------------------------------
+--------------------------------------------------
+#Regression Results
+Peak age:236.0 +0.80/-0.80 Ma
+Peak PbC:1.8000 +0.0000/-0.1320 
+MSWD=3.30 (Num.Data=330)
+Mean age:236.0 +0.80/-0.80 Ma
+Mean PbC:1.7780 +0.0220/-0.1100 
+--------------------------------------------------
+#Ending time:2022-12-27 10:26:31
+**************************************************
+**************************************************
+#Start  time:2022-12-27 10:27:23
+--------------------------------------------------
+#Instrument Parameters
+Ms file: D:\Brama\Brama 2.0\data\Calcite Line\A2.D\A2.csv
+Background Start Row:1
+Background End Row:6
+Single Start Row:20
+Single End Row:1351
+#Dwell Times(s)
+206Pb:0.03
+207Pb:0.063
+238U:0.1
+Others:0.016 
+ComPbFilter: False
+Interpol: True
+#Number of Data:1232
+#Raw Data:1328
+#Compressed Data:7.2%
+Baseline  Error:2.0%
+Min. U  (cps):25
+Min. U Pb (counts):15
+Std Bias 207/206:1.0119
+Std Bias 206/238:0.6800
+Alblatio Corr. factors:1.0000
+Lower Intercept Age:236.00 Ma;
+Upper Intercept Age:5138.58 Ma.
+--------------------------------------------------
+**************************************************
+#Start  time:2022-12-27 10:27:38
+--------------------------------------------------
+#Instrument Parameters
+Ms file: D:\Brama\Brama 2.0\data\Calcite Line\A2.D\A2.csv
+Background Start Row:1
+Background End Row:6
+Single Start Row:20
+Single End Row:1251
+#Dwell Times(s)
+206Pb:0.03
+207Pb:0.063
+238U:0.1
+Others:0.016 
+ComPbFilter: False
+Interpol: True
+#Number of Data:1135
+#Raw Data:1230
+#Compressed Data:7.7%
+Baseline  Error:2.0%
+Min. U  (cps):25
+Min. U Pb (counts):15
+Std Bias 207/206:1.0119
+Std Bias 206/238:0.6800
+Alblatio Corr. factors:1.0000
+Lower Intercept Age:236.25 Ma;
+Upper Intercept Age:5177.43 Ma.
+--------------------------------------------------
+--------------------------------------------------
+#Regression Parameters
+Age start:234
+Age end:238
+Num. Ages:51 
+Pbc76 start:0.7
+Pbc76 end:1.8
+Num. Pbc76:51 
+--------------------------------------------------
+--------------------------------------------------
+#Regression Results
+Peak age:235.5 +0.96/-0.96 Ma
+Peak PbC:0.8760 +0.4620/-0.1540 
+MSWD=3.09 (Num.Data=628)
+Mean age:235.5 +0.96/-0.96 Ma
+Mean PbC:0.9200 +0.4180/-0.1980 
+--------------------------------------------------
+#Ending time:2022-12-27 10:28:39
+**************************************************
+--------------------------------------------------
+#Regression Parameters
+Age start:234
+Age end:238
+Num. Ages:51 
+Pbc76 start:0.7
+Pbc76 end:1.2
+Num. Pbc76:51 
+--------------------------------------------------
+--------------------------------------------------
+#Regression Results
+Peak age:235.5 +0.88/-0.96 Ma
+Peak PbC:0.8800 +0.2900/-0.1600 
+MSWD=3.08 (Num.Data=624)
+Mean age:235.5 +0.88/-0.96 Ma
+Mean PbC:0.9100 +0.2600/-0.1900 
+--------------------------------------------------
+#Ending time:2022-12-27 10:29:40
+**************************************************
